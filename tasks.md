@@ -7,6 +7,10 @@ To test this module locally:
 * Open up a terminal at the project root
 * Run command `pytest -k module1`
 
+## Verify tasks
+After completing each task run py.test. As you complete tasks your failed tests will go down.
+* Open up a terminal at the project root
+* Run command `py.test`
 
 ## Task 1: Define abc imports
 Import ABC and abstractmethod in the first line
